@@ -1,0 +1,6 @@
+Section	Recommended Content & Visual Design
+Hero Section	Animated headline ("Building Scalable Fullstack Web Applications with MERN"), Live Status Pill ("Open to Roles"), quick tech badges (React, Node, Express, MongoDB), CTA buttons for Projects & Live API Demo.
+Fullstack Architecture / Stack	4-card interactive grid representing MongoDB, Express, React, Node, with interactive tabs showing your stack tools.
+Featured Projects	Multi-tab cards showing Live Demo link, GitHub Repo, Tech Stack pills, and an expandable "Backend Specs & DB Schema" drawer.
+Interactive API Console	Mini interactive terminal/playground where visitors can test your API endpoints.
+Experience / Timeline	Clean vertical timeline showing key fullstack achievements, performance optimizations, and API integrations.
